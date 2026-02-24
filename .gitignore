@@ -34,3 +34,7 @@ yarn-error.log*
 
 # Vercel
 .vercel
+
+# Documentation (local notes)
+*.md
+!README.md
