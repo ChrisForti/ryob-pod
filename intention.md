@@ -1,0 +1,1 @@
+I've created the **Sport Fishing Merch Notion Markdown** note for you. It's formatted specifically for easy copying and pasting into your Notion app, covering the tech stack, product lineup, and automation details.
