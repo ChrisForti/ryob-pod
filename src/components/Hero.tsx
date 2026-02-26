@@ -31,23 +31,19 @@ export default function Hero() {
             {/* Right: Image */}
             <div className="relative h-64 md:h-full min-h-100 bg-linear-to-br from-primary-100 to-primary-50">
               <div className="absolute inset-0 flex items-center justify-center">
-                <div className="text-center text-gray-400">
-                  {/* Placeholder for hero image */}
-                  <svg
-                    className="w-32 h-32 mx-auto mb-4"
-                    fill="none"
-                    stroke="currentColor"
-                    viewBox="0 0 24 24"
-                  >
-                    <path
-                      strokeLinecap="round"
-                      strokeLinejoin="round"
-                      strokeWidth={1.5}
-                      d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"
-                    />
-                  </svg>
-                  <p className="text-sm">Hero image placeholder</p>
-                </div>
+                <svg
+                  className="w-64 h-64 text-primary-600"
+                  fill="none"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={1}
+                    d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z"
+                  />
+                </svg>
               </div>
             </div>
           </div>
