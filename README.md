@@ -1,4 +1,4 @@
-# Rybo POD - Print on Demand Merch Store
+# Intracoastal Woodworking
 
 A modern, scalable e-commerce storefront built with React, TypeScript, and Tailwind CSS.
 

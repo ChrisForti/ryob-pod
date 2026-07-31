@@ -1,7 +1,7 @@
 {
-  "name": "rybo-pod",
+  "name": "intracoastal-woodworking",
   "version": "1.0.0",
-  "description": "Print on Demand Merch Store",
+  "description": "Intracoastal Woodworking - Custom Woodworking Store",
   "type": "module",
   "scripts": {
     "dev": "vite",
